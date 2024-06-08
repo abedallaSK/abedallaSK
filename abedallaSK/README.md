@@ -1,5 +1,3 @@
-<img align="left" src="https://orhun.dev/img/crow.png" width="100px" height="100px" />
-
 # Hey, I'm Abdullah! 👋
 ## Final-Year Software Engineering Student
 Merging creativity and code to craft digital experiences.
@@ -16,24 +14,15 @@ I'm Abdullah, a final-year software engineering student at SCE College, deeply p
 
 ## Technologies & Tools 🔧
 
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<code><img height="30" alt="Android Studio" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
+<code><img height="30" alt="Spring Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="30" alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 ... and more!
-
----
-
-## My GitHub Stats 📈
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadiBadarni&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -44,5 +33,4 @@ I'm Abdullah, a final-year software engineering student at SCE College, deeply p
 
 ---
 
-*_"I bend technology to my will; what's your superpower?"*_
-
+*_"I bend technology to my will; what's your superpower?"_*  
