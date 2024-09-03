@@ -39,7 +39,7 @@ Dedicated Software Engineer specializing in Cybersecurity with proficiency in Fu
 ## Let's Connect! 🌐
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/abdallah-shekh-khalil-363236137/">
+    <a href="https://www.linkedin.com/in/abdallah-shekh-khalil-637a11326">
         <img src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://abedallask.netlify.app/">
