@@ -1,7 +1,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100px" height="100px" />
 
 # Hey, I'm Abdullah Sheikh Khalil! 👋
-## Final-Year Software Engineering Student
+##  Software Engineering 
 Merging creativity and code to craft digital experiences.
 
 ---
