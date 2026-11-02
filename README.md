@@ -1,217 +1,110 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abdullah+Sheikh+Khalil!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+Cybersecurity+Specialist;Co-Founder+of+Dojo;Turning+Ideas+Into+Secure%2C+Scalable+Apps" alt="Typing SVG" />
-</div>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d9ff&height=200&section=header&text=Abdullah%20Sheikh%20Khalil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16" alt="Header" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abedallaSK&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+**🌐 English** · [العربية](README.ar.md) · [עברית](README.he.md)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Co-Founder+of+Dojo;Android+%7C+React+Native+%7C+Node.js;Building+secure%2C+scalable+apps" alt="Typing SVG" />
+
+<a href="https://abedallask.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/abdallah-shekh-khalil-637a11326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abadalla1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=abedallaSK&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/abedallaSK?label=Followers&style=for-the-badge&color=203a43" alt="Followers" />
+
 </div>
 
+---
+
+## 👋 About Me
+
+I'm a **full-stack software engineer** and **cybersecurity graduate**, and the **co-founder of Dojo**. I build mobile and web products end to end — from the database and API to the app in your hand — with security in mind from day one.
+
+- 🚀 Building **Dojo** — a cross-platform app (Expo / React Native) with a Node.js API
+- 📱 Shipping native Android apps in **Kotlin + Jetpack Compose**
+- 🔐 Focused on secure, scalable architecture and reliable CI/CD
+- 💼 Open to collaboration and freelance work
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,py,cpp,c,cs,php,html,css&theme=dark" alt="Languages" />
+
+**Frameworks & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,next,angular,nodejs,spring,androidstudio,tailwind,materialui&theme=dark" alt="Frameworks" />
 <br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
+
+**Databases, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,graphql,aws,jenkins,githubactions,git,linux&theme=dark" alt="DevOps" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 📡 **[Universal IR](https://github.com/abedallaSK/universal-ir)** | Infrared + Wi-Fi universal remote for Android — ACs, TVs, TV boxes and smart lights. Available in 15 languages. | Kotlin · Jetpack Compose · Material 3 |
+| 🥋 **Dojo** | Cross-platform mobile app and backend, built and run in production as co-founder. | Expo · React Native · Node.js · MySQL |
+| 📦 **Warehouse Management System** | Inventory and user management with role-based access. | Spring Boot · React |
+| 🎓 **University Final Projects App** | Android + web platform for managing university final projects. | Android · Spring Boot |
+| ⚡ **[Quick Entry](https://github.com/abedallaSK/Quick_Entry)** | College project (2021). | Java |
+
+---
+
+## 💼 Experience
+
+**🥋 Co-Founder & Full-Stack Developer — Dojo** · *Oct 2024 – Present · Remote*
+- Build cross-platform mobile apps with **React Native, Expo and Strapi**
+- Design scalable **MySQL** databases and backend services
+- Own CI/CD pipelines and production deployments; work in Agile sprints
+
+**🔎 SEO Analyst Intern — OnePunch** · *Sep 2024 – Dec 2024 · Remote*
+- Built a **Python web-scraping bot** to automate SEO analysis
+- Worked with Google Analytics, Google APIs, Python and JavaScript
+
+**🏆 Full-Stack Developer Intern — Deqa.io** · *Aug 2023 – Feb 2024*
+- Built an **Android awards system** in Java/Kotlin
+- Developed PHP backend features on **AWS**; deployed through **Jenkins** CI/CD
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedallaSK&theme=radical" alt="Profile details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abedallaSK&theme=radical" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedallaSK&theme=radical" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=abedallaSK&theme=radical&hide_border=true" alt="Streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🔹 About Me
+### 📫 Let's build something together
+
+<a href="https://abedallask.netlify.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/abdallah-shekh-khalil-637a11326">LinkedIn</a> ·
+<a href="mailto:abadalla1999@gmail.com">abadalla1999@gmail.com</a>
 
 </div>
 
-<div align="center">
- <a href="https://abedallask.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/abdallah-shekh-khalil-637a11326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="mailto:abadalla1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://github.com/abedallaSK" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=As+a+cybersecurity+graduate%2C+I+specialize+in+safeguarding+digital+environments;and+developing+secure+applications.+My+passion+lies+in+creating;innovative%2C+security-driven+solutions+that+address+real-world+challenges." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedallaSK&theme=radical" alt="GitHub Profile Details" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abedallaSK&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedallaSK&theme=radical" alt="Top Languages by Commit" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abedallaSK&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🛠 Technologies & Tools
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-E64A19?style=for-the-badge&logo=jenkins&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💼 Experience
-
-</div>
-
-<div align="center">
- <img src="https://img.shields.io/badge/Dojo-000000?style=for-the-badge&logo=google-actions&logoColor=white" />
-</div>
-
-<br/>
-
-<details>
-<summary><strong>Full Experience Details</strong></summary>
-
-<br/>
-
-**Full-Stack Developer & Co-Founder**  
-*Dojo | Israel | Oct 2024 – Present | Remote*  
-- Develop cross-platform mobile apps using **React Native, Expo, Strapi.js**.  
-- Design scalable **MySQL databases** and backend services.  
-- Collaborate in **Agile teams**, manage tasks with Taiga/Monday.com.  
-- Implement CI/CD pipelines and maintain reliable production deployments.  
-
-**SEO Analyst Intern**  
-*OnePunch | Israel | Sep 2024 – Dec 2024 | Remote*  
-- Built **Python web scraping bot** for SEO automation.  
-- Worked with Google Analytics, Google APIs, Python, and JavaScript.  
-
-**Full-Stack Developer Intern**  
-*Deqa.io | Israel | Aug 2023 – Feb 2024*  
-- Built **Android awards system** with Java/Kotlin.  
-- Developed backend functionalities using PHP on AWS.  
-- Participated in CI/CD deployment pipelines with Jenkins.  
-
-</details>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Projects
-
-</div>
-
-<details>
-<summary><strong>Click to see my projects!</strong></summary>
-
-<br/>
-
-- **[Universal IR](https://github.com/abedallaSK/universal-ir)** – Infrared and Wi-Fi universal remote for Android (ACs, TVs, TV boxes, lights). Kotlin + Jetpack Compose, 15 languages.
-- **Dojo** – Cross-platform mobile app (Expo / React Native) with a Node.js API.
-- **Warehouse Management System** – Spring Boot + React, with inventory and user management.
-- **University Final Projects App** – Android + Web app with Spring Boot backend for managing university projects.
-- **[Quick Entry](https://github.com/abedallaSK/Quick_Entry)** – Java college project (2021).
-
-</details>
-
-<br/>
-
-<div align="center">
-
-### 🧠 My Technical Skills
-
-</div>
-
-<div align="center">
-  <h3> <img src="https://img.shields.io/badge/Programming_Languages-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> Programming Languages</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3> <img src="https://img.shields.io/badge/Frameworks_%26_Tools-555555?style=for-the-badge&logo=react&logoColor=61DAFB" /> Frameworks & Tools</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3> <img src="https://img.shields.io/badge/Databases-555555?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> Databases</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📌 Let's Connect!
-
-</div>
-
-<div align="center">
-  <a href="https://abedallask.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdallah-shekh-khalil-637a11326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abadalla1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abedallaSK" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Waving Divider" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile!+:%29" alt="Typing SVG" />
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" />
