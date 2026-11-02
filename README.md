@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abdullah+Sheikh+Khalil!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+Cybersecurity+Specialist;Co-Founder+of+Dojo;Turning+Ideas+Into+Secure%2C+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abdullah+Sheikh+Khalil!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+Cybersecurity+Specialist;Co-Founder+of+Dojo;Turning+Ideas+Into+Secure%2C+Scalable+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,20 +26,22 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=As+a+cybersecurity+graduate%2C+I+specialize+in+safeguarding+digital+environments;and+developing+secure+applications.+My+passion+lies+in+creating;innovative%2C+security-driven+solutions+that+address+real-world+challenges." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=As+a+cybersecurity+graduate%2C+I+specialize+in+safeguarding+digital+environments;and+developing+secure+applications.+My+passion+lies+in+creating;innovative%2C+security-driven+solutions+that+address+real-world+challenges." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abedallaSK&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abedallaSK&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedallaSK&theme=radical" alt="GitHub Profile Details" />
 </div>
 
-<br/>
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abedallaSK&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedallaSK&theme=radical" alt="Top Languages by Commit" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedallaSK&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=abedallaSK&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -96,16 +98,16 @@
 - Collaborate in **Agile teams**, manage tasks with Taiga/Monday.com.  
 - Implement CI/CD pipelines and maintain reliable production deployments.  
 
+**SEO Analyst Intern**  
+*OnePunch | Israel | Sep 2024 – Dec 2024 | Remote*  
+- Built **Python web scraping bot** for SEO automation.  
+- Worked with Google Analytics, Google APIs, Python, and JavaScript.  
+
 **Full-Stack Developer Intern**  
 *Deqa.io | Israel | Aug 2023 – Feb 2024*  
 - Built **Android awards system** with Java/Kotlin.  
 - Developed backend functionalities using PHP on AWS.  
 - Participated in CI/CD deployment pipelines with Jenkins.  
-
-**SEO Analyst Intern**  
-*OnePunch | Israel | Sep 2024 – Dec 2024 | Remote*  
-- Built **Python web scraping bot** for SEO automation.  
-- Worked with Google Analytics, Google APIs, Python, and JavaScript.  
 
 </details>
 
@@ -122,9 +124,11 @@
 
 <br/>
 
+- **[Universal IR](https://github.com/abedallaSK/universal-ir)** – Infrared and Wi-Fi universal remote for Android (ACs, TVs, TV boxes, lights). Kotlin + Jetpack Compose, 15 languages.
+- **Dojo** – Cross-platform mobile app (Expo / React Native) with a Node.js API.
 - **Warehouse Management System** – Spring Boot + React, with inventory and user management.
 - **University Final Projects App** – Android + Web app with Spring Boot backend for managing university projects.
-- *(More projects coming soon!)*
+- **[Quick Entry](https://github.com/abedallaSK/Quick_Entry)** – Java college project (2021).
 
 </details>
 
@@ -207,7 +211,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile!+:%29" alt="Typing SVG" />
 </div>
 
 ---
