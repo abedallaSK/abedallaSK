@@ -2,7 +2,7 @@
   <style>.fade{opacity:0;animation:in .6s ease forwards}@keyframes in{to{opacity:1}}</style>
   <rect x="0.5" y="0.5" width="839" height="155" rx="14" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="40" font-size="18" font-weight="700" fill="#e6edf3">Languages across my repositories</text>
-  <text x="816" y="40" text-anchor="end" font-size="12" fill="#8b949e">Each repo weighted equally · updated 2026-11-02</text>
+  <text x="816" y="40" text-anchor="end" font-size="12" fill="#8b949e">Each repo weighted equally · updated 2026-11-03</text>
   <clipPath id="bar"><rect x="24" y="64" width="792" height="12" rx="6"/></clipPath>
   <g clip-path="url(#bar)"><rect x="24" y="64" width="792" height="12" fill="#161b22"/><rect x="24.0" y="64" width="257.3" height="12" fill="#f1e05a" class="fade" style="animation-delay:0ms"/><rect x="281.3" y="64" width="195.0" height="12" fill="#e34c26" class="fade" style="animation-delay:60ms"/><rect x="476.3" y="64" width="172.4" height="12" fill="#b07219" class="fade" style="animation-delay:120ms"/><rect x="648.8" y="64" width="116.2" height="12" fill="#A97BFF" class="fade" style="animation-delay:180ms"/><rect x="765.0" y="64" width="30.2" height="12" fill="#3572A5" class="fade" style="animation-delay:240ms"/><rect x="795.2" y="64" width="20.8" height="12" fill="#663399" class="fade" style="animation-delay:300ms"/></g>
   <g transform="translate(24,104)">
